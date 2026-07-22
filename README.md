@@ -49,8 +49,6 @@ Resultado obtido:
 - Serviço **FTP**.
 - Versão **VSFTPD 2.3.4**.
 
-📷 **Print:** *(Inserir imagem do Nmap)*
-
 ---
 
 ## Pesquisa do Exploit
@@ -128,9 +126,7 @@ run
 Resultado:
 
 - Backdoor criada com sucesso.
-- Sessão Meterpreter aberta.
-
-📷 **Print:** *(Inserir imagem da sessão Meterpreter)*
+- Sessão Meterpreter aberta
 
 ---
 
@@ -178,7 +174,7 @@ Resultado:
 root
 ```
 
-📷 **Print:** *(Inserir imagem do shell e do whoami)*
+
 
 ---
 
